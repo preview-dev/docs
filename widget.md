@@ -11,7 +11,7 @@ Firstly, place the below HTML code in a location where you'd like the Preview Wi
 Then place the below code anywhere in the HTML page. It is suggested to place in the ending of html body.
 
 ```html
-</script><script type="text/javascript">
+<script type="text/javascript">
 (function (w,d,s,o,f,js,fjs) {
 w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };
     js = d.createElement(s), fjs = d.querySelector('.'+o);
