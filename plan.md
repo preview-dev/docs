@@ -1,9 +1,9 @@
 ## Plan
 
-For now, there are two regular plans supported: free and premium. 
+Currently, we offer two types of plans: Free and Premium.
 
-Free enables most of the features, but limits to up to 20 products and 1 site.
+The Free plan provides access to the majority of features but has certain limitations. With this plan, you can manage up to 20 products and a single website.
 
-Premium enable all of the advanced features, and 1 site (unlimited products) + 1 dev site (10 products only). 
+On the other hand, the Premium plan unlocks all advanced features and grants you the ability to manage one website with unlimited products. Additionally, you also receive a development site where you can work with up to 10 products.
 
-We also have some custom plan that could be tailored just for you, like supporing multiple sites, or even a special widget mode just for your site. Feel free to contact us directly to discuss your requirement.
+In addition to these standard plans, we provide customized options that can be tailored specifically to your needs. Whether you require support for multiple websites or desire a special widget mode exclusively for your site, we are here to assist you. Don't hesitate to reach out to us directly to discuss your requirements.
