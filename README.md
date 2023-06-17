@@ -51,12 +51,13 @@ The most popular mode which would displays the Youtube player directly embedded 
 
 ![image](https://github.com/preview-dev/docs/assets/136892816/c1a4974c-9736-494f-bc00-420ee7535e7b)
 
-
 #### section-tabs
 This mode can support mutilple styles of videos, like Youtube, Youtute Shorts. Tiktok could be added in the future as well.
 
 #### widget
 A preview widget is displayed instead of the section mode. Once the widget is clicked, a modal would be showed up to display the Youtube player and playlist.
+
+![image](https://github.com/preview-dev/docs/assets/136892816/1d7dad5b-682d-49f6-9a82-608d8367ade3)
 
 #### widget-fullscreen
 Unlike the widget mode, this mode would open the player in a fullscreen mode in your product page.
